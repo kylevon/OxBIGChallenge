@@ -1,4 +1,4 @@
-OxBIGChallenge - Food Recommender App 🍎🥗
+# OxBIGChallenge - Food Recommender App 🍎🥗
 
 OxBIGChallenge is a personalized food recommender app that helps you make healthier dietary choices. Log your meals and get customized nutritional recommendations based on the foods you’ve eaten. Whether you aim to balance macros, improve energy, or focus on specific nutrients, OxBIGChallenge is designed to support your goals!
 Features
@@ -8,7 +8,7 @@ Features
     Health Insights: Receive actionable feedback on dietary patterns.
     Customizable Goals: Set your own nutrition preferences to tailor recommendations.
 
-Project Structure
+## Project Structure
 
 OxBIGChallenge
 ├── InputAndRecommendationView
@@ -28,7 +28,7 @@ OxBIGChallenge
 │   └── README.md              # Project documentation
 └── README.md                  # Root README
 
-Prerequisites
+## Prerequisites
 
     Node.js and Watchman: Install Node.js and Watchman.
         Node.js installation guide
@@ -42,7 +42,7 @@ Prerequisites
 
     Android Studio (for Android): If you're developing for Android, install Android Studio and set up an Android Virtual Device (AVD) or enable USB debugging on your device.
 
-Installation
+    ## Installation
 
     Clone the repository:
 
@@ -73,13 +73,13 @@ With an iOS simulator or a connected device:
 
     npx react-native run-ios
 
-Usage
+    ## Usage
 
     Log Foods: Use the app to log meals from the food database or add custom items.
     Receive Recommendations: View personalized suggestions that align with your nutritional needs.
     Track Progress: Follow your daily intake and receive feedback on how to meet your goals.
 
-Technologies Used
+    ## Technologies Used
 
     React Native: Frontend framework for a cross-platform mobile experience
     On Demand: LLM Agent Orchestration API
